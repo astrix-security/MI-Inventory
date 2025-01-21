@@ -1,0 +1,3 @@
+Name,Managed Identity Type,Subscription,System Assigned Managed Identity Resource Type,User Managed Identity Associated Resource Count,User Assigned Managed Identity Associated Resources
+example-identity-1,User Assigned,Example Subscription 1,,2,/subscriptions/xxx/resourceGroups/rg1/providers/Microsoft.Compute/virtualMachines/vm1; /subscriptions/xxx/resourceGroups/rg2/providers/Microsoft.Storage/storageAccounts/storage1
+example-identity-2,System Assigned,Example Subscription 2,Microsoft.Compute/virtualMachines,0,

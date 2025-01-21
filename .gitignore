@@ -1,0 +1,14 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+
+# CSV output
+managed_identities.csv
+
+# Logs
+*.log
+*.tmp
